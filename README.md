@@ -13,7 +13,7 @@ I specialize in providing drafting solutions, plan optimization, and structural 
 
 ## 📄 Curriculum Vitae
 Would you like to learn more about my background, software skills, and experience?
-* 📂 **[Click here to view my Resume in PDF](https://github.com/user-attachments/files/28583121/Bruno.Arriola.-.CV.pdf)**
+* 📂 **[Click here to view my CV in PDF](https://github.com/user-attachments/files/28583121/Bruno.Arriola.-.CV.pdf)**
 
 ---
 
@@ -29,5 +29,5 @@ My work is organized to make navigation easy for you. Explore the folders by cli
 ## 📞 Let's Work Together!
 If you have a project in mind, need backup drafting support, or are looking for an independent technical collaborator, feel free to reach out:
 
-* 📧 **Email:** [arriolacad.design@gmail.com]
-* 💬 **WhatsApp / Phone:** [(437) 607 8590]
+* 📧 **Email:** arriolacad.design@gmail.com
+* 💬 **Phone:** (437) 607 8590
