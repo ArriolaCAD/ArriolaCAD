@@ -30,7 +30,7 @@ Would you like to learn more about my background, software skills, and experienc
 
 | Technical Drafting & General CAD | Wood Framing & Structures | Material Takeoffs & Estimation |
 | :---: | :---: | :---: |
-| <img src="./images/thumb-cad.png" width="160" alt="CAD Portfolio"><br><br>**Technical Drafting & General CAD**<br>_2D/3D technical drawings and structural modeling_<br><br>[**View Folder 📐**](./General-CAD) | <img src="./images/thumb-framing.png" width="160" alt="Framing Portfolio"><br><br>**Wood Framing Plans**<br>_OBC-compliant wood layouts_<br><br>[**View Folder 🪵**](./Wood-Framing) | <img src="./images/thumb-estimating.png" width="160" alt="Estimating Portfolio"><br><br>**Quantity Surveying**<br>_Material & budget sheets_<br><br>[**View Folder 📂**](./Material-Takeoffs)
+| <img src="./images/Thumbnail%20Floor%20Plan.png" width="160" alt="CAD Portfolio"><br><br>**Technical Drafting & General CAD**<br>_2D/3D technical drawings and structural modeling_<br><br>[**View Folder 📐**](./General-CAD) | <img src="./images/thumb-framing.png" width="160" alt="Framing Portfolio"><br><br>**Wood Framing Plans**<br>_OBC-compliant wood layouts_<br><br>[**View Folder 🪵**](./Wood-Framing) | <img src="./images/thumb-estimating.png" width="160" alt="Estimating Portfolio"><br><br>**Quantity Surveying**<br>_Material & budget sheets_<br><br>[**View Folder 📂**](./Material-Takeoffs)
 
 ---
 
