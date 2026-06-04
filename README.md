@@ -13,7 +13,8 @@ I specialize in providing drafting solutions, plan optimization, and structural 
 
 ## 📄 Curriculum Vitae
 Would you like to learn more about my background, software skills, and experience?
-* 📂 **[Click here to view my CV in PDF](https://github.com/user-attachments/files/28583121/Bruno.Arriola.-.CV.pdf)**
+* 📂 **[Click here to view my CV in PDF](https://github.com/user-attachments/files/28609189/Bruno.Arriola.-.CV.pdf)
+)**
 
 ---
 
