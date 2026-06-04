@@ -20,7 +20,7 @@ Would you like to learn more about my background, software skills, and experienc
 ## 💼 Project Portfolio
 My work is organized to make navigation easy for you. Explore the folders by clicking on the links:
 
-* 🪵 **[Wood Framing & Structures](./portafolio/01_wood_framing):** Detailed layout plans, lumber optimization, and step-by-step guides
+* 🪵 **[Wood Framing & Structures](./Wood%20Framing%20%26%20Structures):** Detailed layout plans, lumber optimization, and step-by-step guides
 * 📐 **[Technical Drafting & General CAD](./Technical%20Drafting%20%26%20General%20CAD):** 2D/3D technical drawings and structural modeling
 * 📝 **[Material Takeoffs and Cost Estimation](./portafolio/03_documentacion):** Quantity take-offs, lumber despiece, and material estimation sheets for residential projects
 
