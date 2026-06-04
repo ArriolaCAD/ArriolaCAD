@@ -28,9 +28,9 @@ Would you like to learn more about my background, software skills, and experienc
 ## 💼 Project Portfolio
 *My work is organized to make navigation easy for you. Explore the folders by clicking on the links:*
 
-| Technical Drafting & General CAD | Wood Framing & Structures | Material Takeoffs & Estimation |
-| :---: | :---: | :---: |
-| <img src="./images/Thumbnail%20Floor%20Plan.png" width="160" alt="CAD Portfolio"><br><br>**Technical Drafting & General CAD**<br>_2D/3D technical drawings and structural modeling_<br><br>[**View Folder 📐**](./Technical-Drafting-%26-General-CAD.md) | <img src="./images/thumb-framing.png" width="160" alt="Framing Portfolio"><br><br>**Wood Framing Plans**<br>_OBC-compliant wood layouts_<br><br>[**View Folder 🪵**](./Wood-Framing-%26-Structures.md) | <img src="./images/thumb-estimating.png" width="160" alt="Estimating Portfolio"><br><br>**Quantity Surveying**<br>_Material & budget sheets_<br><br>[**View Folder 📂**](./Material-Takeoffs)
+| Technical Drafting & General CAD | Wood Framing & Structures |
+| :---: | :---: |
+| <img src="./images/Thumbnail%20Floor%20Plan.png" width="160" alt="CAD Portfolio"><br><br>**Technical Drafting & General CAD**<br>_2D/3D technical drawings and structural modeling_<br><br>[**View Folder 📐**](./Technical-Drafting-%26-General-CAD.md) | <img src="./images/Thumbnail%20Found.%20Details.png" width="160" alt="Framing Portfolio"><br><br>**Wood Framing Plans**<br>_OBC-compliant wood layouts_<br><br>[**View Folder 🪵**](./Wood-Framing-%26-Structures.md)
 
 ---
 
