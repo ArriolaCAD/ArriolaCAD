@@ -7,7 +7,7 @@ I specialize in providing drafting solutions, plan optimization, and structural 
 ## 🛠️ Core Services
 * **CAD Design & Drafting:** Creation and editing of architectural blueprints and technical drawings.
 * **Wood Framing Structures:** Modeling, layout, and precise material takeoff for residential and light commercial projects.
-* **Technical Documentation:** Development of assembly guides, technical manuals, and blueprint redline adjustments.
+* **Estimation and Takeoffs:** Price and quantity estimating, area and volume takeoffs in Microsoft Excel with clear organization.
 
 ---
 
