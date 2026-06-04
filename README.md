@@ -1,5 +1,4 @@
 # Hi there! I'm Bruno Arriola 👋
-### Freelance CAD Drafting Services
 
 I specialize in providing high-precision technical drafting solutions, plan optimization, and structural project development (such as Wood Framing) for contractors and construction companies. My goal is to transform ideas and sketches into flawless, production-ready technical documentation.
 
