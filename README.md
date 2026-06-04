@@ -1,4 +1,3 @@
-[Bruno Arriola - CV.pdf]()
 # Hi there! I'm Bruno Arriola 👋
 ### Freelance CAD Drafting Services
 
