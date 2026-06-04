@@ -22,7 +22,6 @@ My work is organized to make navigation easy for you. Explore the folders by cli
 
 * 🪵 **[Wood Framing & Structures](./Wood-Framing-%26-Structures.md):** Detailed layout plans, lumber optimization, and step-by-step guides
 * 📐 **[Technical Drafting & General CAD](./Technical-Drafting-%26-General-CAD.md):** 2D/3D technical drawings and structural modeling
-* 📝 **[Material Takeoffs and Cost Estimation](./portafolio/03_documentacion):** Quantity take-offs, lumber despiece, and material estimation sheets for residential projects
 
 ---
 
