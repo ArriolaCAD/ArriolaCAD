@@ -8,4 +8,4 @@
 
 ✏️ Structural Column Installation Detail Drawings [Download Floor Plan Details](https://github.com/user-attachments/files/28607836/S.O.Floor.Plan.Details.A2.2.Arriola_B.pdf)
 
-⚒️ Concept Floor Plan [Residential Floor Plan](https://github.com/user-attachments/files/28694198/230.Residential.Floor.Plan.A-1.Arriola_B.pdf)
+⚒️ Concept Floor Plan [Download Residential Floor Plan](https://github.com/user-attachments/files/28694198/230.Residential.Floor.Plan.A-1.Arriola_B.pdf)
