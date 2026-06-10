@@ -8,6 +8,8 @@
 
 ⚒️ Architectural Floor Plan Layout [Download Floor Plan](https://github.com/user-attachments/files/28607834/S.O.Floor.Plan.A2.1.Arriola_B.pdf)
 
-⚒️ Concept Floor Plan [Download Residential Floor Plan](https://github.com/user-attachments/files/28694198/230.Residential.Floor.Plan.A-1.Arriola_B.pdf)
+⚒️ Concept Floor Plan [Download 230 Floor Plan](https://github.com/user-attachments/files/28809606/230.Residential.Floor.Plan.A-1.Arriola_B.pdf)
+
+🏠 Concept Architectural Elevations[Download 230 Residential Elevations](https://github.com/user-attachments/files/28809533/230.Residential.Elevations.A-2.Arriola_B.pdf)
 
 🏢 Site Plan w/ Zoning Requirements [Download Site Plan](https://github.com/user-attachments/files/28762316/S.O.Site.Plan.A1.1.Arriola_B.pdf)
